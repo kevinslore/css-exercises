@@ -1,0 +1,21 @@
+.odd_elements {
+    background-color: lightcoral;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+#id1{
+    color: blue;
+    font-size: 36px;
+    font-weight: bold;
+}
+
+#id2{
+    background-color: lightgreen;
+    font-size: 30px;
+    font-weight: bold;
+}
+.size{
+    font-size: 24px;
+}
+
+
